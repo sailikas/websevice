@@ -145,3 +145,1330 @@
  Consume Time：12 ms 2022-02-09 11:26:32
  Execute SQL：SELECT uid,username,password,folder_list,capacity,create_time FROM t_user WHERE (username = 'string')
 
+ Consume Time：7 ms 2022-04-13 16:44:24
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 16:44:24
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/regiter')
+
+ Consume Time：0 ms 2022-04-13 16:44:45
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 16:44:45
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/regiter')
+
+ Consume Time：0 ms 2022-04-13 16:45:04
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 16:45:04
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/regiter')
+
+ Consume Time：8 ms 2022-04-13 16:52:23
+ Execute SQL：SELECT 1
+
+ Consume Time：10 ms 2022-04-13 16:52:23
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514164583965716481, 'string', 'string', NULL, NULL )
+
+ Consume Time：9 ms 2022-04-13 16:54:29
+ Execute SQL：SELECT 1
+
+ Consume Time：196 ms 2022-04-13 16:54:29
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514165112812867586, 'string', 'string', NULL, NULL )
+
+ Consume Time：8 ms 2022-04-13 16:58:24
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 16:58:24
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/register')
+
+ Consume Time：11 ms 2022-04-13 17:01:25
+ Execute SQL：SELECT 1
+
+ Consume Time：1858 ms 2022-04-13 17:01:26
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514166855470764033, 'string', 'string', NULL, NULL )
+
+ Consume Time：11 ms 2022-04-13 17:33:00
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 17:33:00
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：1 ms 2022-04-13 17:33:00
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 17:33:00
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 17:33:04
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:33:04
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/register')
+
+ Consume Time：11 ms 2022-04-13 17:34:27
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:34:27
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:34:27
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 17:34:27
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：0 ms 2022-04-13 17:34:31
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:34:31
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/register')
+
+ Consume Time：9 ms 2022-04-13 17:35:21
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:35:22
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/register')
+
+ Consume Time：10 ms 2022-04-13 17:37:06
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:37:06
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/user/register')
+
+ Consume Time：10 ms 2022-04-13 17:47:55
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 17:47:55
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 17:47:55
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：1 ms 2022-04-13 17:47:55
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：0 ms 2022-04-13 17:48:05
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 17:48:05
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:48:05
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：1 ms 2022-04-13 17:48:05
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：8 ms 2022-04-13 17:49:50
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:49:50
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:49:50
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：0 ms 2022-04-13 17:49:50
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：7 ms 2022-04-13 17:52:00
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:52:00
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 17:52:00
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:52:00
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：0 ms 2022-04-13 17:52:44
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 17:52:44
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:52:44
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:52:44
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：1 ms 2022-04-13 17:52:44
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：0 ms 2022-04-13 17:53:43
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:53:43
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:53:43
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:53:43
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vm.js')
+
+ Consume Time：0 ms 2022-04-13 17:53:43
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:53:43
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：9 ms 2022-04-13 17:54:07
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 17:54:07
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:54:07
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 17:54:07
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 17:54:07
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：8 ms 2022-04-13 18:17:58
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:17:58
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:17:58
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:18:01
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:18:01
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:18:01
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:18:14
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:18:14
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:18:14
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：8 ms 2022-04-13 18:19:08
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:19:08
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:19:08
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：1 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:19:09
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:19:35
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:19:35
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:19:35
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:19:35
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:20:38
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:20:38
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:20:38
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:20:38
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：9 ms 2022-04-13 18:21:56
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:21:56
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:21:56
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：8 ms 2022-04-13 18:22:34
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:22:34
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:22:34
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:22:35
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:22:35
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:22:35
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：7 ms 2022-04-13 18:24:42
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:24:42
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:24:42
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:25:46
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:25:46
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:25:46
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:25:46
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：8 ms 2022-04-13 18:30:14
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:30:15
+ Execute SQL：SELECT 1
+
+ Consume Time：1863 ms 2022-04-13 18:30:15
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514189207101304833, 'string', 'string', NULL, NULL )
+
+ Consume Time：631 ms 2022-04-13 18:30:15
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514189213157879809, 'string', 'string', NULL, NULL )
+
+ Consume Time：1 ms 2022-04-13 18:30:50
+ Execute SQL：SELECT 1
+
+ Consume Time：1801 ms 2022-04-13 18:30:52
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514189361783042049, '12123', '12231', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-13 18:31:55
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:31:55
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:31:55
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:32:08
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:32:08
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:32:08
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:32:08
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:32:52
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:32:52
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:32:52
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:32:52
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：8 ms 2022-04-13 18:33:59
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:33:59
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：1 ms 2022-04-13 18:33:59
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:33:59
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：1 ms 2022-04-13 18:34:02
+ Execute SQL：SELECT 1
+
+ Consume Time：4 ms 2022-04-13 18:34:02
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:34:02
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:34:02
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:34:02
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:34:02
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:34:22
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:34:22
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:34:22
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:34:22
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:34:22
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:34:22
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：7 ms 2022-04-13 18:35:42
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:35:42
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:35:42
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:35:42
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:36:21
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:36:21
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:36:21
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:36:21
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:36:21
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:36:22
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:36:22
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：8 ms 2022-04-13 18:36:54
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-13 18:36:54
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：1 ms 2022-04-13 18:36:54
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：1 ms 2022-04-13 18:36:54
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：9 ms 2022-04-13 18:38:37
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:38:37
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:38:37
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:38:37
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:38:39
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:38:39
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:38:39
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:38:39
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：0 ms 2022-04-13 18:38:39
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:38:44
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:38:44
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：1 ms 2022-04-13 18:38:44
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：1 ms 2022-04-13 18:38:44
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:38:44
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：8 ms 2022-04-13 18:39:14
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:39:14
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/jquery.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:39:14
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/axios.min.js')
+
+ Consume Time：0 ms 2022-04-13 18:39:14
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/js/vue3.js')
+
+ Consume Time：7 ms 2022-04-13 18:41:26
+ Execute SQL：SELECT 1
+
+ Consume Time：1816 ms 2022-04-13 18:41:28
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514192027150004225, '1221', '12213', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-13 18:41:38
+ Execute SQL：SELECT 1
+
+ Consume Time：122 ms 2022-04-13 18:41:38
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514192077070610433, '1221', '12213', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-13 18:42:50
+ Execute SQL：SELECT 1
+
+ Consume Time：1799 ms 2022-04-13 18:42:52
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514192381824544770, '12', '12', NULL, NULL )
+
+ Consume Time：9 ms 2022-04-13 18:48:38
+ Execute SQL：SELECT 1
+
+ Consume Time：132 ms 2022-04-13 18:48:38
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514193839039037441, '123434', '12123312', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-13 18:50:24
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-13 18:50:24
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：14 ms 2022-04-14 14:59:04
+ Execute SQL：SELECT 1
+
+ Consume Time：1833 ms 2022-04-14 14:59:06
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = 'string' AND password = 'string')
+
+ Consume Time：0 ms 2022-04-14 15:01:06
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 15:01:06
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：0 ms 2022-04-14 15:01:12
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 15:01:12
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：8 ms 2022-04-14 15:08:39
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 15:08:39
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：10 ms 2022-04-14 15:10:26
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 15:10:26
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：0 ms 2022-04-14 15:10:47
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 15:10:47
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：0 ms 2022-04-14 15:11:01
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 15:11:01
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：0 ms 2022-04-14 15:11:49
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 15:11:49
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：0 ms 2022-04-14 15:11:50
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 15:11:50
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12' AND password = '12')
+
+ Consume Time：8 ms 2022-04-14 21:15:57
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 21:15:58
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = 'user')
+
+ Consume Time：0 ms 2022-04-14 21:16:42
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 21:16:42
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-14 21:17:15
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 21:17:15
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = 'user')
+
+ Consume Time：0 ms 2022-04-14 21:17:26
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 21:17:26
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = 'string')
+
+ Consume Time：7 ms 2022-04-14 21:26:52
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 21:26:52
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = 'user')
+
+ Consume Time：0 ms 2022-04-14 21:26:59
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 21:26:59
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：6 ms 2022-04-14 22:37:34
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 22:37:34
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:37:44
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:37:44
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:37:46
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:37:46
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:37:52
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 22:37:52
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:38:57
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:38:57
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:39:15
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:39:15
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：7 ms 2022-04-14 22:41:00
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:41:00
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:42:10
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 22:42:10
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：7 ms 2022-04-14 22:43:53
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:43:53
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：6 ms 2022-04-14 22:45:01
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:45:01
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:45:16
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:45:16
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：7 ms 2022-04-14 22:46:22
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:46:22
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：7 ms 2022-04-14 22:46:52
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:46:52
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:02
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:02
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:10
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:10
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:12
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:12
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:13
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:13
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:18
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:18
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:53
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:53
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：0 ms 2022-04-14 22:47:58
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:47:58
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：6 ms 2022-04-14 22:50:03
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 22:50:03
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '')
+
+ Consume Time：8 ms 2022-04-14 23:15:32
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:15:32
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-14 23:16:00
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:16:00
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：6 ms 2022-04-14 23:16:43
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-14 23:16:43
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：7 ms 2022-04-14 23:17:32
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:17:32
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-14 23:17:39
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:17:39
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：6 ms 2022-04-14 23:19:05
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:19:05
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-14 23:19:31
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:19:31
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：7 ms 2022-04-14 23:21:59
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:21:59
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：6 ms 2022-04-14 23:24:30
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:24:30
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-14 23:24:43
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:24:43
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：6 ms 2022-04-14 23:30:24
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:30:24
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-14 23:30:35
+ Execute SQL：SELECT 1
+
+ Consume Time：417 ms 2022-04-14 23:30:35
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514627183224569857, '13', '13', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-14 23:39:39
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:39:39
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：7 ms 2022-04-14 23:42:01
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:42:01
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：7 ms 2022-04-14 23:42:51
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:42:51
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：1844 ms 2022-04-14 23:42:53
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514630270295236610, '11', '11', NULL, NULL )
+
+ Consume Time：8 ms 2022-04-14 23:44:17
+ Execute SQL：SELECT 1
+
+ Consume Time：1783 ms 2022-04-14 23:44:18
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514630628740497409, '22', '22', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-14 23:47:21
+ Execute SQL：SELECT 1
+
+ Consume Time：1774 ms 2022-04-14 23:47:23
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514631401830473729, '33', '33', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-14 23:49:23
+ Execute SQL：SELECT 1
+
+ Consume Time：1746 ms 2022-04-14 23:49:25
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514631912877056001, '44', '44', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-14 23:51:34
+ Execute SQL：SELECT 1
+
+ Consume Time：87 ms 2022-04-14 23:51:34
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514632463320621058, '11', '11', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-14 23:53:33
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-14 23:53:33
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '22')
+
+ Consume Time：0 ms 2022-04-14 23:53:45
+ Execute SQL：SELECT 1
+
+ Consume Time：1817 ms 2022-04-14 23:53:47
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514633012346667010, '22', '22', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-14 23:58:52
+ Execute SQL：SELECT 1
+
+ Consume Time：452 ms 2022-04-14 23:58:53
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514634301533097986, '99', '99', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-14 23:58:59
+ Execute SQL：SELECT 1
+
+ Consume Time：132 ms 2022-04-14 23:58:59
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514634330331189250, '99', '99', NULL, NULL )
+
+ Consume Time：8 ms 2022-04-14 23:59:48
+ Execute SQL：SELECT 1
+
+ Consume Time：1816 ms 2022-04-14 23:59:50
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514634535076143106, '1212', '1212', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-15 00:00:18
+ Execute SQL：SELECT 1
+
+ Consume Time：205 ms 2022-04-15 00:00:18
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514634660565524482, '1212', '1212', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-15 00:01:22
+ Execute SQL：SELECT 1
+
+ Consume Time：1771 ms 2022-04-15 00:01:24
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514634930414546945, '88', '88', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-15 00:07:14
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:07:14
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308' AND password = '521')
+
+ Consume Time：11 ms 2022-04-15 00:07:14
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514636405702176769, '308', '$2a$10$p.MwKEQJ1tm2YWTQLl.gm.fZlEgk4rJ9/axolkls/gBWkYweGwhK.', NULL, NULL )
+
+ Consume Time：8 ms 2022-04-15 00:09:10
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-15 00:09:10
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308' AND password = 'AA')
+
+ Consume Time：7 ms 2022-04-15 00:09:10
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514636891654205442, '308', '$2a$10$nEBkWzOSs5uMuDY8MdBfv.ionJpFH.p6hKqM2TOfb5thc0votGOp2', NULL, NULL )
+
+ Consume Time：7 ms 2022-04-15 00:10:01
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:10:01
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308' AND password = 'AA')
+
+ Consume Time：193 ms 2022-04-15 00:10:01
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514637105605677058, '308', '$2a$10$ECRFTuHA2kOhLe52.XOnZOHkp/4JdRev1zsHp/wV6EGaOTyWGZ9xW', NULL, NULL )
+
+ Consume Time：1 ms 2022-04-15 00:10:30
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:10:30
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308' AND password = '12')
+
+ Consume Time：187 ms 2022-04-15 00:10:30
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514637228293263361, '308', '$2a$10$TDlFP8uPRrr7Ew0/CbbKYe5BgsypGvyVARzLaRPQN/S0wKuvztxOS', NULL, NULL )
+
+ Consume Time：8 ms 2022-04-15 00:11:55
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:11:55
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：8 ms 2022-04-15 00:12:44
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:12:44
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：8 ms 2022-04-15 00:14:34
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:14:34
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：0 ms 2022-04-15 00:14:37
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:14:37
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：8 ms 2022-04-15 00:18:00
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 00:18:00
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：8 ms 2022-04-15 12:47:20
+ Execute SQL：SELECT 1
+
+ Consume Time：1709 ms 2022-04-15 12:47:22
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 12:47:25
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:47:25
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 12:47:35
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:47:35
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 12:49:01
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:49:01
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：0 ms 2022-04-15 12:49:08
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:49:08
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：0 ms 2022-04-15 12:49:16
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:49:16
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '308')
+
+ Consume Time：0 ms 2022-04-15 12:49:33
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:49:33
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：386 ms 2022-04-15 12:49:33
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514828247894962178, '11', '$2a$10$FYpH2UKk1hZN4jCz0.s5MOFu3XxRKwQIZFYUXWU6WWh4ju63szCMC', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-15 12:49:57
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:49:57
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 12:50:13
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:50:13
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 12:51:34
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:51:34
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 12:51:45
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:51:45
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：6 ms 2022-04-15 12:55:16
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:55:16
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 12:55:36
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:55:36
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '22')
+
+ Consume Time：227 ms 2022-04-15 12:55:36
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514829771505164289, '22', '22', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-15 12:55:44
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:55:44
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '22')
+
+ Consume Time：0 ms 2022-04-15 12:55:54
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:55:54
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：7 ms 2022-04-15 12:58:34
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:58:34
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 12:58:48
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-15 12:58:48
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '22')
+
+ Consume Time：0 ms 2022-04-15 12:58:55
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:58:55
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：6 ms 2022-04-15 12:59:57
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 12:59:57
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 13:00:07
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 13:00:07
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：1794 ms 2022-04-15 13:00:09
+ Execute SQL：INSERT INTO password ( uid, uname, password, create_time, update_time ) VALUES ( 1514830910019674114, '12', '$2a$10$ILpin8SWcamawzJthZIzCuJ6DVPxtGG6t3dYhtMixRCKxpFmMRIZO', NULL, NULL )
+
+ Consume Time：0 ms 2022-04-15 13:00:31
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 13:00:31
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：142 ms 2022-04-15 13:00:31
+ Execute SQL：SELECT fid,file_name,file_size,file_type,file_path,deleted FROM all_files WHERE deleted=1 AND (file_path = '/file/123/44')
+
+ Consume Time：7 ms 2022-04-15 14:26:13
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-15 14:26:13
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：7 ms 2022-04-15 14:28:06
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:28:06
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '11')
+
+ Consume Time：0 ms 2022-04-15 14:28:10
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 14:29:36
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:29:36
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：7 ms 2022-04-15 14:29:40
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 14:41:48
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:41:48
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:41:53
+ Execute SQL：SELECT 1
+
+
+ Consume Time：8 ms 2022-04-15 14:43:13
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:43:13
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:43:16
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 14:45:53
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:45:53
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:45:55
+ Execute SQL：SELECT 1
+
+
+ Consume Time：9 ms 2022-04-15 14:47:18
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-15 14:47:18
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:47:19
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 14:51:10
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:51:10
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:51:12
+ Execute SQL：SELECT 1
+
+
+ Consume Time：9 ms 2022-04-15 14:52:25
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:52:25
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:52:27
+ Execute SQL：SELECT 1
+
+
+ Consume Time：9 ms 2022-04-15 14:58:33
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 14:58:33
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:58:41
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 14:59:53
+ Execute SQL：SELECT 1
+
+ Consume Time：1 ms 2022-04-15 14:59:54
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 14:59:56
+ Execute SQL：SELECT 1
+
+
+ Consume Time：10 ms 2022-04-15 15:03:30
+ Execute SQL：SELECT 1
+
+ Consume Time：2 ms 2022-04-15 15:03:30
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:03:32
+ Execute SQL：SELECT 1
+
+
+ Consume Time：6 ms 2022-04-15 15:04:18
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:04:18
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:04:19
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 15:09:11
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:09:11
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:09:13
+ Execute SQL：SELECT 1
+
+
+ Consume Time：0 ms 2022-04-15 15:09:44
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 15:24:29
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:24:29
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:25:04
+ Execute SQL：SELECT 1
+
+
+ Consume Time：7 ms 2022-04-15 15:26:19
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:26:19
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:26:31
+ Execute SQL：SELECT 1
+
+ Consume Time：12 ms 2022-04-15 15:26:31
+ Execute SQL：INSERT INTO all_files ( fid, file_name, file_size, file_type, file_path ) VALUES ( '1514867752404365314', '22974516-fdba-4ad2-b038-04f38644e0e5.png', 3553861, 0, '/file/upload' )
+
+
+ Consume Time：8 ms 2022-04-15 15:27:47
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:27:47
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:27:52
+ Execute SQL：SELECT 1
+
+ Consume Time：9 ms 2022-04-15 15:27:52
+ Execute SQL：INSERT INTO all_files ( fid, file_name, file_size, file_type, file_path ) VALUES ( '1514868089974423554', '4fa37fec-aa58-49df-b89e-62945df14ca5.png', 3553861, 0, '/file/upload' )
+
+
+ Consume Time：7 ms 2022-04-15 15:28:43
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:28:43
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:28:45
+ Execute SQL：SELECT 1
+
+ Consume Time：10 ms 2022-04-15 15:28:45
+ Execute SQL：INSERT INTO all_files ( fid, file_name, file_size, file_type, file_path ) VALUES ( '1514868314394861570', '828ff54b-c062-4220-a812-498788c628c1.png', 3553861, 0, '/file/upload' )
+
+
+ Consume Time：6 ms 2022-04-15 15:29:49
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:29:49
+ Execute SQL：SELECT uid,uname,password,create_time,update_time,deleted FROM password WHERE deleted=1 AND (uname = '12')
+
+ Consume Time：0 ms 2022-04-15 15:29:51
+ Execute SQL：SELECT 1
+
+ Consume Time：0 ms 2022-04-15 15:29:51
+ Execute SQL：INSERT INTO all_files ( file_name, file_size, file_type, file_path ) VALUES ( '85f575a6-7f42-49d7-aea5-f798d042aea1.png', 3553861, 0, '/file/upload' )
+
+
