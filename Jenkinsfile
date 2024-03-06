@@ -1,22 +1,25 @@
-Jenkinsfile (Declarative Pipeline)
 pipeline {
-    agent any
-
+    agent {
+        any {
+            image 'maven:3-alpine'
+            args '-v /root/.m2:/root/.m2'
+        }
+    }
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                echo 'Build ok!!!!!'
             }
         }
-        stage('Test') {
+        stage('Test') { 
             steps {
-                echo 'Testing..'
+                echo 'test ok!!!!!'
             }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
-            }
+            // post {
+            //     always {
+            //         junit 'target/surefire-reports/*.xml' 
+            //     }
+            // }
         }
     }
 }
